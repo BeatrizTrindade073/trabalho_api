@@ -11,7 +11,6 @@
     { "id": 2, "ocupacao": "Engenheira Elétrica", "empresa": "Energisa", "tempodecarreira": "5 anos"},
     { "id": 3, "ocupacao": "Atendente", "empresa": "Supermercado Bahamas", "tempodecarreira": "8 meses"},
     { "id": 4, "ocupacao": "Estagiário", "empresa": "RBM Web","tempodecarreira": "2 meses"}, 
-    { "id": 5, "ocupacao": "Professor", "empresa": "Sheffield Idiomas","tempodecarreira": "10 anos"},
-    
+    { "id": 5, "ocupacao": "Professor", "empresa": "Sheffield Idiomas","tempodecarreira": "10 anos"}
   ]
 }
